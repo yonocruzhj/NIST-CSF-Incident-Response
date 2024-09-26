@@ -10,8 +10,3 @@
 | Respond | In the case of future incidents, the cybersecurity team will isolate affected systems to mitigate disruption to the company. The incident management team will restore any critical systems that were affected by the attack. Then, the team will analyze network logs to check for abnormal patterns. The incident management team will also report all incidents to upper management and legal authorities. |  |  |
 | Recover | In order to recover from a DDoS attack by ICMP flooding, access to critical network resources need to be restored. Critical network services should be the first to be restored. In case of future DDoS attacks, incoming ICMP flood attacks can be blocked at the newly implemented firewall. Then, all non-critical network services should be temporarily stopped to reduce network traffic. After the flood of ICMP packets time out, all non-critical network systems and services can be brought back online. |  |  |
 
----
-
-| Reflections/Notes: |
-| :---- |
-
