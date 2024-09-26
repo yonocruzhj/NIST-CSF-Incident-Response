@@ -16,7 +16,7 @@ Scenario: <br/>
 <br />
 <br />
 
-**Incident report analysis**
+<h2>Incident Response Analysis</h2>
 
 | Summary | The company experienced a distributed denial of services (DDoS) attack that caused all the network services to stop responding. This was due to the incoming flood of ICMP packets. In order to restore the critical network services and solve the issue, the incident management team blocked the attack and stopped all non-critical network services offline. |  |  |
 | :---- | :---- | ----- | ----- |
